@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2025-01-07T21:41:17.982Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2025-01-07T21:43:17.982Z"
+    },
+    {
+      "description": "carne",
+      "price": 50,
+      "category": "alimentação",
+      "type": "income",
+      "createdAt": "2025-01-13T21:29:40.878Z",
+      "id": 3
+    },
+    {
+      "description": "cartão",
+      "price": 400,
+      "category": "contas",
+      "type": "outcome",
+      "createdAt": "2025-01-13T22:11:59.894Z",
+      "id": 4
+    },
+    {
+      "description": "lanche",
+      "price": 16,
+      "category": "comida",
+      "type": "outcome",
+      "createdAt": "2025-01-16T23:55:48.241Z",
+      "id": 5
+    },
+    {
+      "description": "asdsada",
+      "price": 123,
+      "category": "asdas",
+      "type": "income",
+      "createdAt": "2025-01-17T14:25:31.101Z",
+      "id": 6
+    }
+  ]
+}
